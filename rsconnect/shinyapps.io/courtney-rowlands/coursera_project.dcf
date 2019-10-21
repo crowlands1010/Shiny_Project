@@ -1,0 +1,12 @@
+name: coursera_project
+title: coursera_project
+username:
+account: courtney-rowlands
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1359501
+bundleId: 2522386
+url: https://courtney-rowlands.shinyapps.io/coursera_project/
+when: 1571689695.95413
+asMultiple: FALSE
+asStatic: FALSE
